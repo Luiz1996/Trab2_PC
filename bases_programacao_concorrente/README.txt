@@ -1,0 +1,1 @@
+Esta pasta deve ser colocada no C: e nela devem conter todos os arquivos de bases e centróides.
